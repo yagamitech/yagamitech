@@ -1,6 +1,6 @@
 ## Yoo 👋
 
-I'm Light, just a tech,
+I'm Light, just a tech
 
 Love automatizate stuff
 
