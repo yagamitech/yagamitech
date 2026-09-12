@@ -1,3 +1,3 @@
 ## Yoo 👋
 
-sudo himself
+I talk to hardware so I don't have to talk to people.
